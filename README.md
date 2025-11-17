@@ -112,13 +112,6 @@ Releases will appear here:
 
 ---
 
-## 🎨 OPTIONAL SCREENSHOTS
-```
-![screenshot](screenshots/app.png)
-```
-
----
-
 ## 📜 LICENSE
 
 **MIT License — Free to use, modify and distribute.**
