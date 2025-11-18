@@ -1,5 +1,5 @@
 # 💣 EMAIL BLASTER 3000
-**Mass Email Sender – Retro Hacker Y2K Edition (Python + Tkinter)**  
+**Mass Email Sender**  
 _The fastest, simplest and cleanest way to blast personalized emails in seconds._
 
 ---
